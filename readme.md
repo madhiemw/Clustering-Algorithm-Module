@@ -5,5 +5,5 @@ untuk implementasi beberapa methode dan algoritma clustering dapat kalian temuka
 
 untuk tutorial berbagai macam tool yang saya sediakan silahkan baca terlebih dahulu module yang sudah saya buat.
 
-good luck with your thesis :)
+good luck with your thesis :)<br>
 adhiem, bengkel koding.
